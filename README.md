@@ -1,5 +1,5 @@
 # portfolio
 
-deployed website : https://jumthaibii.ct.ws/
+deployed website : https://jjumthaibi.ct.ws/
 
 all rights preserved.
